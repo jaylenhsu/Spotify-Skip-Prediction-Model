@@ -1,0 +1,7 @@
+Model,Type,ROC AUC,Avg Precision,Accuracy,Features,Leaky Features
+"Random Forest
+(Predictive)",Tree-Based,86.06,93.45,72.0,29,No
+"PyTorch NN
+(Predictive)",Deep Learning,83.39,92.5,76.0,29,No
+"Random Forest
+(Exploratory)",Tree-Based,95.92,98.06,91.0,33,Yes

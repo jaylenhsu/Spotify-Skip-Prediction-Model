@@ -1,0 +1,7 @@
+Model Type,ROC AUC,Average Precision,Accuracy,Features Used,Use Case
+"Exploratory
+Analysis",95.92,98.06,91.0,33,"Why did I skip?
+(Post-hoc analysis)"
+"Predictive
+(Pre-Playback)",86.06,93.45,72.0,29,"Will I skip this track?
+(Before playback)"
