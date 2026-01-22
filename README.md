@@ -145,7 +145,7 @@ Mean absolute SHAP values confirm listening duration (ms_played) and behavioral 
 ## Next Steps
 
 ### Spotify API Integration
-Once Spotify reopens API registrations, the project can be enhanced with audio features:
+This the project can be enhanced with audio features from Spotify's API:
 
 **Audio Features to Add:**
 - **Acoustic attributes**: danceability, energy, valence, tempo
